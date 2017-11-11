@@ -1,3 +1,18 @@
+/*
+*Programa teste do Shield IoT-IFSP
+*
+*GERSE – Grupo de Estudos em Robótica e Sistemas Embarcados
+*http://www.gerserobotica.com
+*gerse.robot@gmail.com
+*IFSP – Campus Guarulhos
+*
+*Desenvolvedor:
+*Pedro Igor Borçatti
+*
+*novenbro de 2017
+*/
+
+
 #include <ESP8266WiFi.h>
 #include <Wire.h>                        // BIBLIOTECA PARA I2C
 #include <LiquidCrystal_I2C.h>           // BIBLIOTECA PARA LCD 16X2 I2C 
