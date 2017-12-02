@@ -1,5 +1,5 @@
 /*
-*Programa teste do Shield IoT-IFSP
+*Programa teste do Shield IoT-IFSP [REVE 2.1]
 *
 *GERSE – Grupo de Estudos em Robótica e Sistemas Embarcados
 *http://www.gerserobotica.com
