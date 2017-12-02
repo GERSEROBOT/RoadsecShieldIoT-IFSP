@@ -6,8 +6,7 @@
 *gerse.robot@gmail.com
 *IFSP – Campus Guarulhos
 *
-*Desenvolvedor:
-*Pedro Igor Borçatti
+*Desenvolvedor: Pedro Igor Borçatti
 *
 *novenbro de 2017
 */
